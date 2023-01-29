@@ -1,6 +1,6 @@
 # 10000-hours
 
-># RUBY 
+># RUBY and Rails
 15/12/2022
 1 hour 55 minutes
 1 hour 22 minutes
