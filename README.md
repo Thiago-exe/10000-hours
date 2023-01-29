@@ -14,4 +14,10 @@
 31/12/2022
 30 minutes
 
-TOTAL: 4 hour(s) 27 minute(s)
+27/01/2022
+6 hours
+
+28/01/2022
+5 hours
+
+TOTAL: 15 hour(s) 27 minute(s)
