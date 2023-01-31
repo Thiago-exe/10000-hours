@@ -23,4 +23,7 @@
 29/01/2023
 2 hours
 
-TOTAL: 17 hour(s) 27 minute(s)
+30/01/2023
+37 minutes
+
+TOTAL: 17 hour(s) 54 minute(s)
